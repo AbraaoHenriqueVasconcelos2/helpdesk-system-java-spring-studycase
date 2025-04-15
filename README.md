@@ -1,4 +1,4 @@
-# sistema-helpdesk-java-spring-treinamento
+# helpdesk-system-java-spring-studycase
 
 📚 Projeto baseado em um sistema de atendimento (Helpdesk) apresentado no canal do **Manual da Programação** no YouTube.
 
